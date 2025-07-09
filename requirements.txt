@@ -2,4 +2,5 @@ streamlit
 numpy
 pandas
 sqlalchemy
-scikit-learn==1.1.1
+scikit-learn
+
