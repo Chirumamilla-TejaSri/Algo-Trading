@@ -1,6 +1,8 @@
 streamlit
+tensorflow==2.15.0
 numpy
 pandas
 sqlalchemy
-scikit-learn
-
+scikit-learn>=1.3
+Pillow
+streamlit-lottie
