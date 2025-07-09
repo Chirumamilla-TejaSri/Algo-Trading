@@ -1,6 +1,6 @@
 streamlit
-tensorflow
+tensorflow==2.9.1
 numpy
 pandas
 sqlalchemy
-scikit-learn
+scikit-learn==1.1.1
