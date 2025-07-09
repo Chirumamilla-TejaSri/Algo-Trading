@@ -1,4 +1,9 @@
-import streamlit as st
+import os
+os.system("pip install tensorflow==2.15")
+
+# Now import it
+import tensorflow as tf
+
 from PIL import Image
 import json
 from streamlit_lottie import st_lottie
